@@ -1,0 +1,9 @@
+{
+  "qme_profile": "QME-1/EcosystemReference",
+  "canonical_spec_subject": "seanchatmangpt/chatman-ecosystem@32c47032a9cefd0ab4f0980efc32fa84505031b2",
+  "local_subject": "seanchatmangpt/ash@4f5602fb7ce161e71d4dac922a5b1e8e9e02f7cf",
+  "role": "application semantics projection",
+  "normative": false,
+  "weakens_core": false,
+  "authority_granted_by_projection": "none"
+}
